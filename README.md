@@ -13,8 +13,9 @@ If you want to update your app to the latest version, use your terminal to go to
 
 `> git pull origin master`
 
-Now your app is updated, if you need to update your deendencies then type the following command: 
+Now your app is updated, if you need to update your dependencies then type the following command: 
 
 `> npm install`
+
 
 *Thank you for using this application :)*
