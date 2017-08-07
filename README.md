@@ -17,5 +17,6 @@ Now your app is updated, if you need to update your dependencies then type the f
 
 `> npm install`
 
+View it on Live: http://smarturl.it/iochat
 
 *Thank you for using this application :)*
